@@ -4,13 +4,13 @@ Simulate the output for 'nmap hostname -Pn' using the scapy library and find the
 
 > OUTPUT:
 
-Starting Nmap 7.80 (https://nmap.org) at 2020-10-02 21:42 IST
-Nmap scan report for scanme.nmap.org 45.33.32.156
-Host is up
-
-PORT	STATE
-22      Open
-25      Filtered
+Starting Nmap 7.80 (https://nmap.org) at 2020-10-02 21:42 IST  
+Nmap scan report for scanme.nmap.org 45.33.32.156 
+Host is up  
+  
+PORT	STATE 
+22      Open 
+25      Filtered 
 80      Open
 206     Filtered
 219     Filtered
